@@ -15,7 +15,7 @@ For Demo checkout following link👇: <br />
 ![Nextjs Creative Portfolio Website](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/Home-desktop.png)
 
 #### About
-![Nextjs Creative Portfolio Website About Page](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/About-desktop-full.png)
+![About](https://github.com/PratapRathi/portfolio/assets/130206612/592fce3a-242f-4c51-94bf-122160efdbd4)
 
 #### Projects
 ![Portfolio Projects](https://github.com/PratapRathi/portfolio/assets/130206612/c4c8abcb-ab6e-42c2-b043-c962c5ef9a85)
