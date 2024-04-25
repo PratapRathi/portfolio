@@ -2,7 +2,7 @@
 
 This repository contains **final code** for this Creative Portfolio website built using Next.js and Three.js. <br />
 
-For Demo checkout following link👇: <br />
+To explore checkout following link👇: <br />
 [My Creative Portfolio Website](https://portfolio-pratap.vercel.app/) <br />
 
 ---
