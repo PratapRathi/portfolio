@@ -96,6 +96,15 @@ const AboutDetails = () => {
             />
           </Link>
         </ItemLayout>
+
+        <ItemLayout className={"col-span-full !p-0"}>
+          <img
+            className="w-full h-auto"
+            src={`https://github-profile-trophy.vercel.app/?username=PratapRathi&theme=onedark&no-frame=true&no-bg=true&hide_border=true&type=svg&background=EB545400&ring=FEFE5B&currStreakLabel=FEFE5B`}
+            alt="Pratap Rathi"
+            loading="lazy"
+          />
+        </ItemLayout>
       </div>
     </section>
   );
