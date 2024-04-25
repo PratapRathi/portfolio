@@ -12,7 +12,7 @@ To explore checkout following link👇: <br />
 ## Images of The Portfolio Website:
 
 #### Home
-![Nextjs Creative Portfolio Website](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/Home-desktop.png)
+![Home-desktop](https://github.com/PratapRathi/portfolio/assets/130206612/9cbe07ab-09f1-4f70-9d5a-c96cfb8f1b56)
 
 #### About
 ![About](https://github.com/PratapRathi/portfolio/assets/130206612/592fce3a-242f-4c51-94bf-122160efdbd4)
@@ -21,11 +21,11 @@ To explore checkout following link👇: <br />
 ![Portfolio Projects](https://github.com/PratapRathi/portfolio/assets/130206612/c4c8abcb-ab6e-42c2-b043-c962c5ef9a85)
 
 #### Contact
-![Next.js Creative Portfolio Website Contact Page](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/Contact-desktop.png)
+![Contact-desktop](https://github.com/PratapRathi/portfolio/assets/130206612/903900cc-fadb-4d50-bdba-0fb5b0f89ca3)
 
 #### Mobile Version
-![Next.js Creative Portfolio Website Contact Page](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/Home-mobile.png)
-![Next.js Creative Portfolio Website Contact Page](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/Contact-mobile.png)
+![Home-mobile](https://github.com/PratapRathi/portfolio/assets/130206612/1d3fbae9-eec6-494b-8d77-7fc032b7b7b1)
+![Contact-mobile](https://github.com/PratapRathi/portfolio/assets/130206612/e34aa664-5c07-45b4-8aee-e1415760b927)
 
 ## Resources Used in This Project
 
