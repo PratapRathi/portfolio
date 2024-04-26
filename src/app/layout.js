@@ -11,7 +11,7 @@ const inter = Inter({
 
 export const metadata = {
   title: "Pratap Rathi: Crafting Digital Experiences | Full Stack Portfolio",
-  description: "Step into the digital playground of John Doe, where every line of code showcasing a blend of technical prowess and creative flair.",
+  description: "Step into the digital playground of Pratap Rathi, where every line of code showcasing a blend of technical prowess and creative flair.",
   icons: {icon: "/favicon.png"}
 };
 
