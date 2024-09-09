@@ -12,27 +12,34 @@ Websites:
 export const projectsData = [
   {
     id: 1,
+    name: "OLX - Clone",
+    description: "Buy Sell Used items",
+    date: "2024-06-11",
+    demoLink: "http://olx-pratap.vercel.app/",
+  },
+  {
+    id: 2,
     name: "Airbnb - Clone",
     description: "Holiday rentals, Cabins, beach, house & more",
     date: "2024-04-22",
     demoLink: "https://airbnb-pratap.vercel.app/",
   },
   {
-    id: 2,
+    id: 3,
     name: "Messenger",
     description: "Realtime messaging app",
     date: "2024-03-31",
     demoLink: "https://messenger-pratap.vercel.app/",
   },
   {
-    id: 3,
+    id: 4,
     name: "NotePlus",
     description: "Save your personal notes",
     date: "2023-09-23",
     demoLink: "https://note-plus.netlify.app/",
   },
   {
-    id: 3,
+    id: 5,
     name: "Weather",
     description: "Live weather app",
     date: "2023-08-25",
