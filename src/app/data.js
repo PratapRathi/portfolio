@@ -72,7 +72,7 @@ export const BtnList = [
   },
   {
     label: "Resume",
-    link: "/resume.pdf",
+    link: "https://docs.google.com/document/d/18KpJWMn2D-ttHfqqoGaD5Ep_oh32KQo65LytdNcruHs/edit?usp=sharing",
     icon: "resume",
     newTab: true,
   },
